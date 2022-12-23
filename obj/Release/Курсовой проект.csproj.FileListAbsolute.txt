@@ -1,0 +1,36 @@
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\bin\Release\Курсовой проект.exe.config
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\bin\Release\Курсовой проект.exe
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\bin\Release\Курсовой проект.pdb
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.csprojAssemblyReference.cache
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Form1.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Form2.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Form3.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Properties.Resources.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.exe
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.pdb
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\bin\Release\Курсовой проект.exe.config
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\bin\Release\Курсовой проект.exe
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\bin\Release\Курсовой проект.pdb
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой проект.csprojAssemblyReference.cache
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form1.resources
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form2.resources
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form3.resources
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой_проект.Properties.Resources.resources
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой проект.exe
+C:\Users\Дмитпий\Desktop\Study\5 семестр\бд\Курсовая\Прога\Курсовой проект (программа)\obj\Release\Курсовой проект.pdb
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form1.resources
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form2.resources
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form3.resources
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой_проект.Properties.Resources.resources
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой проект.exe
+C:\Users\Денис\Desktop\Курсовой проект (программа)\obj\Release\Курсовой проект.pdb
+C:\Users\Денис\Desktop\Курсовой проект (программа)\bin\Release\Курсовой проект.exe.config
+C:\Users\Денис\Desktop\Курсовой проект (программа)\bin\Release\Курсовой проект.exe
+C:\Users\Денис\Desktop\Курсовой проект (программа)\bin\Release\Курсовой проект.pdb
